@@ -6,7 +6,7 @@ const Home = () => {
     <>
       <section className="Home">
         <div className="overlay flex flex-col items-center justify-center text-white px-5">
-          <h1 className="text-5xl font-bold text-right mb-10 lg:text-center lg:text-7xl lg:px-56">
+          <h1 className="text-7xl font-bold text-right mb-10 lg:text-center lg:text-7xl lg:px-56">
             I'm a <span className="text-blue-500">Web developer</span> with 
             spacial qualities
           </h1>

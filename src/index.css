@@ -19,8 +19,7 @@ body {
   background: url('./assets/altumcode-U0tBTn8UR8I-unsplash.jpg') no-repeat center/cover;
 }
 
-.Home .
-{
+.Home .overlay {
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.8);
 }
